@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a.out.dir/paged-sort.cpp.o -o a.out  /usr/lib/x86_64-linux-gnu/libgtest.a 

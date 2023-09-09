@@ -1,0 +1,4 @@
+/home/aleprominecraft/Documents/Tarea1/build/CMakeFiles/a.out.dir
+/home/aleprominecraft/Documents/Tarea1/build/CMakeFiles/test.dir
+/home/aleprominecraft/Documents/Tarea1/build/CMakeFiles/edit_cache.dir
+/home/aleprominecraft/Documents/Tarea1/build/CMakeFiles/rebuild_cache.dir
